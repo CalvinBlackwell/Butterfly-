@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(214, 211, 211);
+    
+
+}
+/* THIS IS A SELECTOR
+ header{
+    border: 2px solid red;
+}
+
+SELECTOR BY CLASS
+.navigation{
+    color: white;
+}
+SELECTOR BY ID
+#nav{
+    color: black;
+/* } */
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+/* header{
+    background-color: white;
+    height:     100px; 
+    
+} */
+/* #nav{
+    padding: 20px;
+} */
+/* SELECTOR BY DECENDANT */
+/* header nav a{
+    text-decoration: none; 
+    color: black;
+} */
+
+
+/* SELECTOR BY CHILD */
+/* nav{
+    text-align: right;
+    border: 10pxpx;
+} */
+
+/* #nav{
+    font-size: larger;
+} */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: white;
+    height: 45px;
+    /* border: 1px solid; */
+    display: flex;
+    padding: 20px;
+}
+
+.nav{
+    width: 50%;
+    /* border: 1px solid gray; */
+    color: purple;
+    font-size:larger;
+    font-style: italic;
+    position: ;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+    margin: 8px;
+    font-style: normal;
+}
